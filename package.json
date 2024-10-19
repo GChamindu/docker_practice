@@ -1,0 +1,23 @@
+{
+  "name": "node-practice-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GChamindu/docker_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GChamindu/docker_practice/issues"
+  },
+  "homepage": "https://github.com/GChamindu/docker_practice#readme",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
